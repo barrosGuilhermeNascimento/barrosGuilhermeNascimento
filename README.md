@@ -1,6 +1,9 @@
 # barrosGuilhermeNascimento
 
-Backend Developer
+- Backend Developer
+- Currently learning to python and Alexa Skills.
+- Information Security studant
+
 
 ## Languagues
 
