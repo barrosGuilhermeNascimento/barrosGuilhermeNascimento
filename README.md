@@ -3,6 +3,8 @@
 
 - Backend Developer
 
+- Especialized in .net Envoriment
+
 - Currently learning python and Alexa Skills.
 
 - Security Information student
